@@ -17,10 +17,15 @@ Proyek ini bertujuan untuk meningkatkan kualitas gambar dalam kondisi gelap atau
 ## Struktur Folder
 
 ├── enhancer.py # Fungsi peningkatan kualitas gambar
+
 ├── main.py # Program utama
+
 ├── utils.py # Fungsi tambahan (histogram dan perbandingan)
+
 ├── input_images/
+
 │ └── exdark/ # Dataset ExDark (berisi subfolder kategori: Car, Street, dll)
+
 ├── output_images/ # Hasil pemrosesan: enhanced, before-after, histogram
 
 
