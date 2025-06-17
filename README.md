@@ -1,3 +1,7 @@
+#Imam Agil Aiman
+#F55123066
+#Teknik Informatik B
+
 # Enhanced Night Vision
 
 Proyek ini bertujuan untuk meningkatkan kualitas gambar dalam kondisi gelap atau malam hari menggunakan teknik pemrosesan citra digital, seperti peningkatan kontras (CLAHE) dan pengurangan noise (bilateral filter). Dataset yang digunakan adalah ExDark (Exclusively Dark).
